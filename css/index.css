@@ -1,0 +1,13 @@
+.item {
+  width: 300px;
+  display: inline-block;
+}
+
+.image {
+  display: block;
+  width: 100%;
+}
+
+#list-items {
+  padding: 10px;
+}
